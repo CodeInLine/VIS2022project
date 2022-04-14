@@ -8,8 +8,12 @@ read_filename = 'loc_text/03_31.txt'
 
 write_filename = 'loc_info/03_31.json'
 
+web_ak = '7730Bm5nP9fNrm2GNWemmkYr7vZQLiG1'
+
+js_ak = 'GGksizlb2uf1GKkCNbBxworr81BF7UHf'
+
 params = {
-    'ak': '7730Bm5nP9fNrm2GNWemmkYr7vZQLiG1',
+    'ak': web_ak,
     'address': '',
     'city': '上海市',
     'output': 'json'
