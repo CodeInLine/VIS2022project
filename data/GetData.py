@@ -2,12 +2,7 @@ import requests
 import bs4
 
 urls = [
-    {'url': 'https://mp.weixin.qq.com/s/u0XfHF8dgfEp8vGjRtcwXA', 'date': '04_10'},
-    {'url': 'https://mp.weixin.qq.com/s/_Je5_5_HqBcs5chvH5SFfA', 'date': '04_09'},
-    {'url': 'https://mp.weixin.qq.com/s/79NsKhMHbg09Y0xaybTXjA', 'date': '04_08'},
-    {'url': 'https://mp.weixin.qq.com/s/HTM47mUp0GF-tWXkPeZJlg', 'date': '04_07'},
-    {'url': 'https://mp.weixin.qq.com/s/8bljTUplPh1q4MXb6wd_gg', 'date': '04_06'},
-    {'url': 'https://mp.weixin.qq.com/s/djwW3S9FUYBE2L5Hj94a3A', 'date': '04_05'}
+    {'url': 'https://mp.weixin.qq.com/s/ZkhimhWpa92I2EWn3hmd8w', 'date': '04_15'}
 ]
 
 dir = 'raw_data/'

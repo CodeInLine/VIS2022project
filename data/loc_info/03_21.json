@@ -1,0 +1,5502 @@
+[
+    {
+        "address": "浦东新区军港公路朝丰新村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.10294290675475,
+            "lng": 121.84247962472928
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区妙境路124弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.202324712849943,
+            "lng": 121.69510892276482
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区鹤沙路688弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.08766578024054,
+            "lng": 121.59652680999716
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区联勤村冯桥队张家宅",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.171212397581485,
+            "lng": 121.55744791522713
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区浦东大道2778弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.275651133477883,
+            "lng": 121.5813748214687
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区前哨路288弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.245953574238246,
+            "lng": 121.7300021630111
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区东波路58弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.289892586356153,
+            "lng": 121.58377868701339
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区南新村吴家宅",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.360191454559764,
+            "lng": 121.52662561589096
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区五莲路780弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.274305479007058,
+            "lng": 121.59713693909953
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区花木星辰苑",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.208696225459047,
+            "lng": 121.55658015210449
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区栖山路1876弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.26737165620498,
+            "lng": 121.57928653064965
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区杨高北路5291弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.269953033656726,
+            "lng": 121.61277410243393
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区尚博路569弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.155835970026693,
+            "lng": 121.52610684445895
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区张杨路2999弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.253982428223043,
+            "lng": 121.57370068732752
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区行泰路281弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.295513561735028,
+            "lng": 121.61568973262766
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区博山东路811弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.265442810713736,
+            "lng": 121.57981814785047
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区三林路359弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.144436188677087,
+            "lng": 121.50490467849025
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区居家桥路737弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.252754851932117,
+            "lng": 121.5770580143405
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区碧云路333弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.24398785556432,
+            "lng": 121.58332800713904
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区玉兰路99弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.21061728484793,
+            "lng": 121.55488630723487
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区三三公路5020弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.959156355151052,
+            "lng": 121.9130469520852
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区高青路4567弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.1769905078571,
+            "lng": 121.5692836293044
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区梅花路230弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.21442207062762,
+            "lng": 121.54869806023774
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区龙阳路1880弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.206698915055398,
+            "lng": 121.55929249576131
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区巨峰路758弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.285179725908556,
+            "lng": 121.60845873259454
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区三林路788弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.147340445444716,
+            "lng": 121.51430643378824
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区陆楼村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.080426105869773,
+            "lng": 121.77125998762611
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区沪南公路5397号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.05001821899979,
+            "lng": 121.60061284243984
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区创新西路333弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.20731771752115,
+            "lng": 121.65809011202082
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区华夏二路200弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.200057534311252,
+            "lng": 121.6906064358877
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区宣镇东路785弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.02932904759557,
+            "lng": 121.70730566582654
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区博华路237弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.190083150395562,
+            "lng": 121.55315868607809
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区听悦路686弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.060316904304834,
+            "lng": 121.74553889578945
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区天花庵村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.12853590017715,
+            "lng": 121.53193954213525
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区英雄村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.034120375692826,
+            "lng": 121.75968460248563
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区汇南村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.041389909445435,
+            "lng": 121.74898102284259
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区拱海路78弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.075214482134594,
+            "lng": 121.7468341625043
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区法赛路518号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.319361467861132,
+            "lng": 121.6281577639534
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区鹏飞路426弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.177710999067397,
+            "lng": 121.56156916124581
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区益江路396弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.20480233029449,
+            "lng": 121.63319438328674
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区殷北路361弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.18452898702208,
+            "lng": 121.63450605949582
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区临沂路181弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.19757925080322,
+            "lng": 121.52066814357934
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区繁荣东路150弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.11201697090244,
+            "lng": 121.59321448809021
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区金桥路1221弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.26234111033506,
+            "lng": 121.59082849882516
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区枣庄路399弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.261941757193952,
+            "lng": 121.58471220609937
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区金桥路530弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.267272884479524,
+            "lng": 121.58072804150152
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区栖山路1555弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.26442296656864,
+            "lng": 121.57228558665764
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区利津路385弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.28276487908113,
+            "lng": 121.59099567348056
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区建光村高家宅",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.218350771640285,
+            "lng": 121.75372910644613
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区浦建路60弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.213159230587877,
+            "lng": 121.52445369282894
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区凌兆路127弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.1477960721254,
+            "lng": 121.5000277778766
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区新川路922弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.19679906404236,
+            "lng": 121.69452547333607
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区闵家浜路70弄",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.227348292436346,
+            "lng": 121.55045460683195
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区听悦路685弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.060350004053333,
+            "lng": 121.74498086840666
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区光明村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.29664029270497,
+            "lng": 121.66490052541417
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区拱为路2600弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.063557763042446,
+            "lng": 121.74541825335946
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区新龙路69弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.32351248858295,
+            "lng": 121.63439002792052
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区欣连佳苑",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.336184046972157,
+            "lng": 121.62474869454303
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区靖海南路567弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.038816857021356,
+            "lng": 121.77784429752259
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区鹏岳路152弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.177214966797443,
+            "lng": 121.56093334060584
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区云汉路779弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.91559308584125,
+            "lng": 121.81718540767098
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区拱海路79弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.07553127655628,
+            "lng": 121.74678161163196
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区陈春路620弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.179314705497738,
+            "lng": 121.5524308789539
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区横桥路69弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.11424083016227,
+            "lng": 121.58617042543372
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区草高支路656号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.358040657559563,
+            "lng": 121.58186817085478
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区柳埠路135弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.268891029980523,
+            "lng": 121.58893424199627
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区金豫路50弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.261537772135096,
+            "lng": 121.62015745508154
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区金桥路825号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.267215010373118,
+            "lng": 121.58502328929748
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区牡丹路259弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.214654701261765,
+            "lng": 121.5558250364928
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区绿林路320弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.176162646734344,
+            "lng": 121.55483474449859
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区沪南路1168号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.18504381399001,
+            "lng": 121.5613871645495
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区国展路1756号工地",
+        "comprehension": 94,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.189040953165733,
+            "lng": 121.49706758032497
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区潮乐路19弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.880568760061237,
+            "lng": 121.8608027215385
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区棉场村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.98379232629996,
+            "lng": 121.85775306416268
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区新德佳苑",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.195948210577438,
+            "lng": 121.67453107912554
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区莲溪路1099弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.18174774834683,
+            "lng": 121.56986339568053
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区东海农场",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.960594037028752,
+            "lng": 121.91250819855678
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区南门大街70弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.049802582763984,
+            "lng": 121.76342757205406
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区博华路999弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.17680629046571,
+            "lng": 121.55711392523853
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区崂山路551弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.232572857538436,
+            "lng": 121.52875567791624
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区香楠路199弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.222307949933047,
+            "lng": 121.62022428901147
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区高行步行街",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.227348292436346,
+            "lng": 121.55045460683195
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区东方路3344弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.197538785966152,
+            "lng": 121.52063023508683
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区宣春路192号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.08930542877813,
+            "lng": 121.73752726826817
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区下南路309弄",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.176934122698174,
+            "lng": 121.54938616225839
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区中界村苏家队",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.19161049851133,
+            "lng": 121.57702962788638
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区川沙路4000号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.215932113410005,
+            "lng": 121.69825649544121
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区园二路299弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.32307691964883,
+            "lng": 121.64100182596562
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区大众村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.206682082088673,
+            "lng": 121.60951972123236
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区锦绣路1650弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.218861486801792,
+            "lng": 121.54600404201332
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区新雅路75-1号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.242708124876227,
+            "lng": 121.69083218006234
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区杨桥村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.190980934765687,
+            "lng": 121.57064465198256
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区康桥路1558弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.155405954675448,
+            "lng": 121.58763637019544
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区竹柏路100弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 30.907496658388855,
+            "lng": 121.91924333394839
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区民生路423号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.246153400950913,
+            "lng": 121.54954965386119
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区懿行路971弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.131133547765522,
+            "lng": 121.51939497518005
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区昌里东路395弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.18330234169044,
+            "lng": 121.5189664834518
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区殷军路65号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.17423230696833,
+            "lng": 121.62149637944415
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区联勤村李家队北李家宅",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.129579790039198,
+            "lng": 121.74759772218778
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区宣春路201号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.09000123478007,
+            "lng": 121.73244312857334
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区下盐路3977号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.07534894784922,
+            "lng": 121.72169876586017
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区新营村顾家宅",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.202485251102743,
+            "lng": 121.74826300724847
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区妙川路300弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.182536170132575,
+            "lng": 121.7038497946991
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区鹏飞路333弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.17786146115561,
+            "lng": 121.5635072553836
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区宣桥村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.024736304506646,
+            "lng": 121.70611370424534
+        },
+        "precise": 0
+    },
+    {
+        "address": "浦东新区北蔡大街31弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.19367809757782,
+            "lng": 121.56054356584508
+        },
+        "precise": 1
+    },
+    {
+        "address": "浦东新区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "浦东新区",
+        "location": {
+            "lat": 31.227348292436346,
+            "lng": 121.55045460683195
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区永年路24弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21672572925998,
+            "lng": 121.4865341511501
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区建德路1号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.216068462326337,
+            "lng": 121.47467445231571
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区新昌路477弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.24455168792447,
+            "lng": 121.47327273639796
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区雁荡路109号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.22449715744996,
+            "lng": 121.47613815131369
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区蒙自西路62弄2号",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.213501116329986,
+            "lng": 121.4819643811903
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区蒙自西路28弄3号",
+        "comprehension": 57,
+        "confidence": 70,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.212915864005417,
+            "lng": 121.48257010859568
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区顺昌路612弄21号",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.220331389007576,
+            "lng": 121.4855653286576
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区顺昌路612弄52号",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.220331389007576,
+            "lng": 121.4855653286576
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区制造局路361号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.2121371175751,
+            "lng": 121.49177423668145
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区斜土路468号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.209353852998927,
+            "lng": 121.48394927704514
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区斜土路486弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.20840937579005,
+            "lng": 121.48399823469545
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区蒙自西路10号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21345590996484,
+            "lng": 121.48320044957202
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区局门路1弄1号",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.23724715206362,
+            "lng": 121.49158559252436
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区建国东路37弄3号",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.218282598869006,
+            "lng": 121.48324356823652
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区黄陂南路506弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.223976205280724,
+            "lng": 121.48232963221066
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区丽园路873号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.212775263924414,
+            "lng": 121.48254324926093
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区丽园路875号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.212645009844376,
+            "lng": 121.48247937973917
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区新闸路218号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.24474998447707,
+            "lng": 121.47598088251814
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区建国东路75弄4号",
+        "comprehension": 57,
+        "confidence": 30,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.218282598869006,
+            "lng": 121.48324356823652
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区唐家湾路158号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21973328619964,
+            "lng": 121.4880308179603
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区五里桥路254号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.209366593183937,
+            "lng": 121.48667599359014
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区建国东路328弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.218571348432068,
+            "lng": 121.48265796287454
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区黄陂南路700号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21999925597231,
+            "lng": 121.482900954515
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区中山南一路500弄2号",
+        "comprehension": 57,
+        "confidence": 50,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.204962632650165,
+            "lng": 121.49230783015439
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区安澜路41号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.221567033989263,
+            "lng": 121.49295209486615
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区鲁班路721弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.202508107897504,
+            "lng": 121.48468633671608
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区淡水路225弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.222755183320498,
+            "lng": 121.47987824630448
+        },
+        "precise": 0
+    },
+    {
+        "address": "黄浦区淡水路91弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.227227862844504,
+            "lng": 121.47957596650036
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区泰康路19号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21427784397671,
+            "lng": 121.47786703009818
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区思南路82弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21547365223381,
+            "lng": 121.4766426396881
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区四牌楼路110号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.229305560368335,
+            "lng": 121.50190541605355
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区瞿溪路937弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.206350981651095,
+            "lng": 121.48468409095231
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区方斜路419号2号楼",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.22018030027642,
+            "lng": 121.48995220361557
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区瑞金二路410弄11号",
+        "comprehension": 57,
+        "confidence": 70,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.21265280810797,
+            "lng": 121.47347880768194
+        },
+        "precise": 1
+    },
+    {
+        "address": "黄浦区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "黄浦区",
+        "location": {
+            "lat": 31.23724715206362,
+            "lng": 121.49158559252436
+        },
+        "precise": 0
+    },
+    {
+        "address": "静安区茂名北路93号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.231446202920715,
+            "lng": 121.46631140767893
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区万荣路1050弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.296569554210247,
+            "lng": 121.44746621570731
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区中山北路828号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26568943600116,
+            "lng": 121.46425374907777
+        },
+        "precise": 0
+    },
+    {
+        "address": "静安区普善路239弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26329530663027,
+            "lng": 121.46395694893728
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区普善路228号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.2629554548979,
+            "lng": 121.46187252083193
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区芷江西路393弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26439171360241,
+            "lng": 121.46441768983335
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区普善路铁路新村16号",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26185169993096,
+            "lng": 121.46113411370273
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区中华新路940号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26057175073395,
+            "lng": 121.46108219164424
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区海防路100弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.247381141103308,
+            "lng": 121.45616037575508
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区芷江西路593弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.263127464478224,
+            "lng": 121.46134323922544
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区康定东路13弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.243331860700195,
+            "lng": 121.46392784383876
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区江杨南路466弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "静安区",
+        "location": {
+            "lat": 31.322721398879402,
+            "lng": 121.47443155050583
+        },
+        "precise": 0
+    },
+    {
+        "address": "静安区万荣路948号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.29315714885991,
+            "lng": 121.44844357210216
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区中山北路899弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "静安区",
+        "location": {
+            "lat": 31.268675047373453,
+            "lng": 121.46215180401498
+        },
+        "precise": 0
+    },
+    {
+        "address": "静安区长宁路209弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.2324453328046,
+            "lng": 121.43461263165669
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区柳营路1025弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.268273869351653,
+            "lng": 121.45655976238481
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区普善路390弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26632436193742,
+            "lng": 121.46037306927467
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区曲沃路373弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "静安区",
+        "location": {
+            "lat": 31.31962707702513,
+            "lng": 121.45050850697794
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区少年村路479弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.306570612059296,
+            "lng": 121.43983591887499
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区大统路938弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "静安区",
+        "location": {
+            "lat": 31.26044272075746,
+            "lng": 121.46501793757511
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区江宁路363弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "静安区",
+        "location": {
+            "lat": 31.239828743988667,
+            "lng": 121.45929474334051
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区普善路铁路新村61号",
+        "comprehension": 57,
+        "confidence": 70,
+        "district": "静安区",
+        "location": {
+            "lat": 31.2627410791231,
+            "lng": 121.45974452490934
+        },
+        "precise": 1
+    },
+    {
+        "address": "静安区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "静安区",
+        "location": {
+            "lat": 31.233844930401652,
+            "lng": 121.45343177276851
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区罗秀路887号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.13758160721806,
+            "lng": 121.43949141871192
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙华西路591弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.18318903828708,
+            "lng": 121.44732742750601
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙吴路2888弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.11546419311615,
+            "lng": 121.46157679865804
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区龙吴路1717弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.13827071965649,
+            "lng": 121.45670573703019
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区东安一村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.195351033168695,
+            "lng": 121.4637655200331
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙南五村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.161427921589443,
+            "lng": 121.46045301846506
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区老沪闵路1068弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.136352968549037,
+            "lng": 121.44410897852487
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区长桥四村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.1399378439366,
+            "lng": 121.44602802858583
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙吴路2418弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.125376030198847,
+            "lng": 121.46907800898856
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区康健路43弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.17213299515986,
+            "lng": 121.43749170081617
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区乌鲁木齐中路162弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.22019527791319,
+            "lng": 121.45177484825537
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区桂平路67弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.156161222873155,
+            "lng": 121.41831422563641
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙州路440号-450号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.138618596654478,
+            "lng": 121.43236938313716
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区梅陇十村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.136225853756606,
+            "lng": 121.43119098596918
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区日晖一村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.200899161249822,
+            "lng": 121.47164213223624
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区汇成二村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.15253648271551,
+            "lng": 121.44147784168615
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区钦州南路381弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.166060422146053,
+            "lng": 121.43156441156968
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区乐山支路4弄",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.194556772822725,
+            "lng": 121.44339635276381
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区小木桥路345弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.20214015915539,
+            "lng": 121.46582344812592
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区柳州路181弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.165030997347372,
+            "lng": 121.43437035866064
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区梅陇路130号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.147574169768635,
+            "lng": 121.43210932369203
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区冠生园路411弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.169188178896135,
+            "lng": 121.42920195790899
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区梅陇路565弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.14331882790522,
+            "lng": 121.42283099557112
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区老沪闵路841弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.140789360190553,
+            "lng": 121.43960047300084
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区柳州路128弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.165360312542735,
+            "lng": 121.43288267490557
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区钦州南路300弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.16689972794132,
+            "lng": 121.43044386527653
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区上中路289弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.145240763645816,
+            "lng": 121.44915520972718
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙吴路2588弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.12014463833439,
+            "lng": 121.46294896032454
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区上中路285号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.14544683201147,
+            "lng": 121.44893198080793
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区罗秀三村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.140542096738187,
+            "lng": 121.45301783358953
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区汇成一村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.153289378964452,
+            "lng": 121.43851585892808
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区桂林路303弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.175201150784943,
+            "lng": 121.42490751858799
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙川北路800弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.158327872507932,
+            "lng": 121.44238701669279
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区东安路350弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.196163125555582,
+            "lng": 121.46143567486241
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区凯旋路1800弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.199408335854983,
+            "lng": 121.42947648007284
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区老沪闵路1039弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.153863183060615,
+            "lng": 121.43369303630612
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区天钥桥南路1191-1号3楼",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.159428676684172,
+            "lng": 121.46205784125864
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区文定路288弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.191018467757193,
+            "lng": 121.43701658703193
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区桂林东街150弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.16388105020919,
+            "lng": 121.43059235517732
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区清真路99弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.204735923650603,
+            "lng": 121.46494247991228
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区天钥新村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.192061894349106,
+            "lng": 121.45293015897174
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区龙吴路1343弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.142578291870645,
+            "lng": 121.45733616783708
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区东安路230弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.19928385479955,
+            "lng": 121.45903800762575
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区罗秀路930弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.13750557117837,
+            "lng": 121.43281889521437
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区老沪闵路777号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.146524685045996,
+            "lng": 121.43630279347371
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区江南一村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.19817788123625,
+            "lng": 121.46937525828181
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区长桥八村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.137412148764824,
+            "lng": 121.44448204480317
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区老沪闵路1290弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.12716046406469,
+            "lng": 121.44557384531998
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区冠生园路230弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.168835857644595,
+            "lng": 121.43227003054777
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区钦州南路8弄",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.194556772822725,
+            "lng": 121.44339635276381
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区梅陇四村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.142782434378194,
+            "lng": 121.42777356231757
+        },
+        "precise": 0
+    },
+    {
+        "address": "徐汇区龙南六村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.16235850345514,
+            "lng": 121.45937388405592
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区老沪闵路1070弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.134411609414304,
+            "lng": 121.443571971491
+        },
+        "precise": 1
+    },
+    {
+        "address": "徐汇区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "徐汇区",
+        "location": {
+            "lat": 31.194556772822725,
+            "lng": 121.44339635276381
+        },
+        "precise": 0
+    },
+    {
+        "address": "长宁区哈密路398弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.217783075462897,
+            "lng": 121.38180717954145
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区剑河路409弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.220319345152404,
+            "lng": 121.37435546584453
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区宣化路299弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.223338521292316,
+            "lng": 121.43085888242214
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区江苏路495弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.2230219165261,
+            "lng": 121.4386520420434
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区绥宁路628号（公寓）",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.222530138649866,
+            "lng": 121.35100051072116
+        },
+        "precise": 0
+    },
+    {
+        "address": "长宁区宣化路113弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.22384874603193,
+            "lng": 121.43637636469498
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区华山路1520弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.211404151132438,
+            "lng": 121.4381979486081
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区古北路181弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.219793737450907,
+            "lng": 121.4067171015026
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区泉口路225弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.219657702779475,
+            "lng": 121.36952761271169
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区水城路728弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.21845785606299,
+            "lng": 121.39863262140443
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区金钟路255弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.225096773821445,
+            "lng": 121.37310277881086
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区天山西路350弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.223654275771523,
+            "lng": 121.37306774489596
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区镇宁路405弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.228985810709954,
+            "lng": 121.44057863787066
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区仙霞西路885弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.214887176900515,
+            "lng": 121.35597909951855
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区幸福路381弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.215381079554785,
+            "lng": 121.43729416343452
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区北翟路980弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.230725584579943,
+            "lng": 121.3663132959359
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区定西路615弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.211164717787764,
+            "lng": 121.42990622942881
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区汇川路88弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.22370932039199,
+            "lng": 121.42494129487517
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区中山西路1231号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.200799855996628,
+            "lng": 121.4242246267393
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区长宁路491弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.228760858219243,
+            "lng": 121.43327298864965
+        },
+        "precise": 1
+    },
+    {
+        "address": "长宁区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "长宁区",
+        "location": {
+            "lat": 31.226847968225428,
+            "lng": 121.43045437545099
+        },
+        "precise": 0
+    },
+    {
+        "address": "普陀区红柳路238弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.30171488767095,
+            "lng": 121.36296099943377
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区志丹路500弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.277285259706296,
+            "lng": 121.43939494070015
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区同普路689弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.23364005983164,
+            "lng": 121.38829761651213
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区普雄路26弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.242946088186642,
+            "lng": 121.43065281113815
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区雪松路458弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.29371435878105,
+            "lng": 121.35883418392092
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区绿杨路201弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.290837938009062,
+            "lng": 121.35801780387347
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区雪松路392弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.289754724987986,
+            "lng": 121.36070688141757
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区金汤路353弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.25623541247418,
+            "lng": 121.38582979161512
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区真南路822弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.280429053280905,
+            "lng": 121.3908049668516
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区桃浦路300弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.268511844750737,
+            "lng": 121.40368073904831
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区武威东路479弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.28169245103882,
+            "lng": 121.40810067164905
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区白玉新村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.239023591360276,
+            "lng": 121.42169948995075
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区万泉路122弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.27398534310195,
+            "lng": 121.40613859275416
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区武宁路2525弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.25109204921267,
+            "lng": 121.39650480514295
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区曹杨七村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.246969606437972,
+            "lng": 121.416892028353
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区大渡河路1332弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.24361883489916,
+            "lng": 121.40167383470848
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区华联路130弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.28260471003506,
+            "lng": 121.3539649189041
+        },
+        "precise": 0
+    },
+    {
+        "address": "普陀区靖边路299弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.268245395600843,
+            "lng": 121.37364050448913
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区真南路209弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.274476387458705,
+            "lng": 121.4022886349995
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区真北路1817弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.256148359523408,
+            "lng": 121.39608879986129
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区曹杨路1021号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.250015552943715,
+            "lng": 121.41565542098797
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区大渡河路2087弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.264905341272474,
+            "lng": 121.40365648479954
+        },
+        "precise": 1
+    },
+    {
+        "address": "普陀区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "普陀区",
+        "location": {
+            "lat": 31.254973368279597,
+            "lng": 121.40356934916508
+        },
+        "precise": 0
+    },
+    {
+        "address": "虹口区水电路818弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.292018186929177,
+            "lng": 121.48313181903106
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区大连路919号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.27146588384456,
+            "lng": 121.51234695997933
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区西江湾路168号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.27407731766569,
+            "lng": 121.48514968269814
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区车站北路491弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.30299743561254,
+            "lng": 121.48044920928662
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区广灵二村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.291750030500495,
+            "lng": 121.48494684531398
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区四川北路1774弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.265406773735187,
+            "lng": 121.4900271222951
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区天宝路882弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.264461164624308,
+            "lng": 121.50761280011119
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区汶水东路298弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.296638672740045,
+            "lng": 121.49149567214282
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区东大名路888弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.25583487561943,
+            "lng": 121.51116299331717
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区吴淞路407弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.256469405464834,
+            "lng": 121.49521465695412
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区广灵四路280弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.293333422882892,
+            "lng": 121.48059293816821
+        },
+        "precise": 1
+    },
+    {
+        "address": "虹口区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "虹口区",
+        "location": {
+            "lat": 31.269746698931357,
+            "lng": 121.51158645453457
+        },
+        "precise": 0
+    },
+    {
+        "address": "杨浦区佳木斯路266号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.30340131847364,
+            "lng": 121.54529599761035
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区中原路32弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.31494718574476,
+            "lng": 121.5385611317104
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区延吉五村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.296850579342138,
+            "lng": 121.54406612753664
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区临青路430号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.27381096154958,
+            "lng": 121.54585240804323
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区政悦路588弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.340517905475586,
+            "lng": 121.53190217262603
+        },
+        "precise": 0
+    },
+    {
+        "address": "杨浦区延吉六村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.296134013725446,
+            "lng": 121.54291746428103
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区控江东三村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.29250813358122,
+            "lng": 121.54042772072958
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区松花江路1160弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.293086947733986,
+            "lng": 121.53168630981199
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区控江西三村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.291062895422108,
+            "lng": 121.53801945348789
+        },
+        "precise": 1
+    },
+    {
+        "address": "杨浦区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "杨浦区",
+        "location": {
+            "lat": 31.265524144657057,
+            "lng": 121.53251993732523
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区大华二村二街坊",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.276659358558202,
+            "lng": 121.42361809085897
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区菊太路1755弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.351381582931502,
+            "lng": 121.35875854659697
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区长江路32号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.357827887843598,
+            "lng": 121.50580496027236
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区真华路1030弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.280742994753364,
+            "lng": 121.41792310341735
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区洛场路114号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.308506706819504,
+            "lng": 121.41678611813337
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区大华路869弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.281744529663534,
+            "lng": 121.42321403304058
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区长江路868号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.35208785581294,
+            "lng": 121.49043683943822
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区华灵路510弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.28071606789037,
+            "lng": 121.42724239426951
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区顾北东路500弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.362742127466685,
+            "lng": 121.41411940839646
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区锦秋路699弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.3267257491348,
+            "lng": 121.39668222048118
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区环镇北路417弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.313894177839096,
+            "lng": 121.41299652650898
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区泰和西路3511弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.35340586803246,
+            "lng": 121.406709016753
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区大华路455弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.276912898409368,
+            "lng": 121.42163795602332
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区新沪路837弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.277994794445867,
+            "lng": 121.42369525530228
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区泰和路678弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.375534214729672,
+            "lng": 121.49516758574539
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区大康路891弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.335413730060534,
+            "lng": 121.42973869545119
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区南东路20弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.38943851564158,
+            "lng": 121.36855726309983
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区大华二村三街坊",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.280346883613344,
+            "lng": 121.42238498688542
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区虎林路435弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.342649908521366,
+            "lng": 121.46483001206244
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区锦秋路1601弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.323400588896995,
+            "lng": 121.37859052717133
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区水产西路738号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.362165904129693,
+            "lng": 121.42345343145898
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区铁峰路2000弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.402959094162384,
+            "lng": 121.46028305906258
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区美秀路358弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.39036089461278,
+            "lng": 121.35745797987964
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区顾陈路231弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.347039286298347,
+            "lng": 121.40055436638193
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区沙浦路128弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.362197355609215,
+            "lng": 121.3953925232605
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区高境二村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.327801900989314,
+            "lng": 121.48519100475158
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区美秀路558弄",
+        "comprehension": 57,
+        "confidence": 20,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.41027947347614,
+            "lng": 121.4965630135246
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区塘后路285弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.40459414806367,
+            "lng": 121.51008529619685
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区宝祁雅苑北区",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.326007099497957,
+            "lng": 121.37901497652479
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区大华路301弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.27629316740608,
+            "lng": 121.42302952108884
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区菊太路999弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.356242044327246,
+            "lng": 121.36882567678622
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区富联二路55弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.378632768451084,
+            "lng": 121.41626644839585
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区虎林路231号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.33982141435889,
+            "lng": 121.46603733466785
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区沪联路245弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.367508417615003,
+            "lng": 121.3751075451836
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区菊泉街1346弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.36833782213538,
+            "lng": 121.37814227272183
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区陆翔路358弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.35656737148401,
+            "lng": 121.37542166465433
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区祁连二村C街坊",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.321078736506262,
+            "lng": 121.38463163172592
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区韶山路245弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.364788520165966,
+            "lng": 121.37145331023345
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区新沪路475弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.277143907644064,
+            "lng": 121.4251243695381
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区水产西路268弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.36473641082612,
+            "lng": 121.43796052646182
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区泗塘五村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.340141093093475,
+            "lng": 121.46657137729352
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区新沪路285弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.275415876821157,
+            "lng": 121.4243609895157
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区长江西路1160弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.344094270259554,
+            "lng": 121.46681823164766
+        },
+        "precise": 1
+    },
+    {
+        "address": "宝山区真大路399弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.298116994752416,
+            "lng": 121.40795694276746
+        },
+        "precise": 0
+    },
+    {
+        "address": "宝山区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "宝山区",
+        "location": {
+            "lat": 31.41027947347614,
+            "lng": 121.4965630135246
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区报春路816弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.127769513183583,
+            "lng": 121.38180628123594
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区北江燕路228弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.085530061001478,
+            "lng": 121.50766291373695
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区沧源路660弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.018533820080272,
+            "lng": 121.43503797931565
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区曹行村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.097940016919736,
+            "lng": 121.44784107859662
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区春申路1580弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.12197175571486,
+            "lng": 121.43849618603743
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区春申路1717弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.120278653396348,
+            "lng": 121.43669948518692
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区春申路2458弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.11817705263805,
+            "lng": 121.42197050872312
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区东川路800号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.032028841151515,
+            "lng": 121.44328397474452
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区东风村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.10886798524048,
+            "lng": 121.55106347830662
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区放鹤路2号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.056803160646666,
+            "lng": 121.48357351585031
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区虹梅南路1555弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.12380347459045,
+            "lng": 121.43301068344074
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区虹梅南路1728弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.119978471758017,
+            "lng": 121.43513544546349
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区虹梅南路1770弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.118649515009096,
+            "lng": 121.438129946881
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区虹梅南路1781弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.113478423057806,
+            "lng": 121.43407742123384
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区虹梅南路2555弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.103561775366988,
+            "lng": 121.43927438810071
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区虹梅南路788号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.13224108483293,
+            "lng": 121.42928514099921
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区沪光路39弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.08452255101005,
+            "lng": 121.42910089853912
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区纪翟南路165号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.210196863442828,
+            "lng": 121.3067639948656
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区剑川路150弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.04974024307159,
+            "lng": 121.47059255207839
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区剑川路198弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.046397670646627,
+            "lng": 121.46883496989064
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区剑川路50弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.049817046185485,
+            "lng": 121.48221303215546
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区剑川路综合服务中心工地宿舍",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.040653521144332,
+            "lng": 121.45296788780317
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区江柳路888弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.10468927146431,
+            "lng": 121.49254138958698
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区江玮路100弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.063109848004515,
+            "lng": 121.53708602423247
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区兰坪路301弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.013017089055598,
+            "lng": 121.42551091039903
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区老沪闵路1351弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.119387921096553,
+            "lng": 121.44156156375968
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区莲花南路155弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.137370962509983,
+            "lng": 121.41250892627818
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区莲花南路431弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.13028851261968,
+            "lng": 121.41594198044565
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区龙吴路4221号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.09240829729388,
+            "lng": 121.46529569363881
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区龙吴路5511弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.050396277321234,
+            "lng": 121.47244099532627
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区罗锦路111弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.13017939550161,
+            "lng": 121.42217514271827
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区罗锦路888弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.12777886411631,
+            "lng": 121.40514821092941
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区罗秀路1955弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.133168865042535,
+            "lng": 121.41051899991247
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区梅陇二村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.14070474980123,
+            "lng": 121.41705551995581
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区浦星公路568弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.124246463726084,
+            "lng": 121.50356961684133
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区普乐路425弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.12098620956612,
+            "lng": 121.43091314007495
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区群英路88弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.125044256233366,
+            "lng": 121.37645857870449
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区上中西路1011弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.134922472885403,
+            "lng": 121.41775655757581
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区上中西路735弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.134807951925392,
+            "lng": 121.42335389920848
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区莘松路958弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.11287082716113,
+            "lng": 121.3554149636583
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区莘朱路1760弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.128238836121053,
+            "lng": 121.42647245661692
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区莘朱路1924弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.128692468940034,
+            "lng": 121.42862488644937
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区曙建路78弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.098952551937035,
+            "lng": 121.42554432736401
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区许浦村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.230791664007622,
+            "lng": 121.3441344023862
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区益文路79弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.142407837945587,
+            "lng": 121.4168957114056
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区银春路2200弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.030873862853017,
+            "lng": 121.39244401508509
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区银都路2688弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.103773268877724,
+            "lng": 121.4131855299883
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区银都路3151弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.09688332937969,
+            "lng": 121.40433075291533
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区银都路666弄",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.11374121614828,
+            "lng": 121.45226819764144
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区俞塘村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.03884694753643,
+            "lng": 121.38877228114362
+        },
+        "precise": 0
+    },
+    {
+        "address": "闵行区镇西路515弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.140534447014748,
+            "lng": 121.41562972945039
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区朱行路12号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.13279283928544,
+            "lng": 121.4323683950011
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区颛兴路666弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.07168435979389,
+            "lng": 121.39609931003575
+        },
+        "precise": 1
+    },
+    {
+        "address": "闵行区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "闵行区",
+        "location": {
+            "lat": 31.118842580087428,
+            "lng": 121.38861193361008
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区康年路208弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.32526300675237,
+            "lng": 121.28048695480561
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区金园一路555号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.262356930086177,
+            "lng": 121.32380125716784
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区海蓝路98弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.266979886801508,
+            "lng": 121.3549480244542
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区娄塘路760弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.43814800525665,
+            "lng": 121.22222617010205
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区安礼路255弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.27697825077921,
+            "lng": 121.17563717177696
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区安研路66弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.281846757990554,
+            "lng": 121.19587599491676
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区吴胜别墅",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.303968031985086,
+            "lng": 121.19959686616966
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区华亭镇唐行石村",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.467475025845893,
+            "lng": 121.24806269419673
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区城北路3980号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.453901923227715,
+            "lng": 121.19949616612197
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区汇善路1322弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.41271505450508,
+            "lng": 121.20972786588062
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区汇善路1333弄",
+        "comprehension": 57,
+        "confidence": 30,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.407012618967183,
+            "lng": 121.20338115779153
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区中大街140弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.437481899475053,
+            "lng": 121.22348936731018
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区娄塘路658弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.43694749109403,
+            "lng": 121.22366097154104
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区娄塘路626弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.436597499559497,
+            "lng": 121.22423557587723
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区南新路170弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.438211935139208,
+            "lng": 121.22569183275954
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区大北街254弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.43585997968652,
+            "lng": 121.21935280518255
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区南新路626弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.433458082139747,
+            "lng": 121.22217357702017
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区小东街44号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.438750022742823,
+            "lng": 121.22359204362996
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区南新路307弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.435340063167093,
+            "lng": 121.22427576641124
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区金沙路280号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.391729919637346,
+            "lng": 121.26358801849513
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区温宿路45号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.393547189265607,
+            "lng": 121.25411314112863
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区爱特路89弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.23808188358603,
+            "lng": 121.32445809815674
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区曹安公路2300弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.266651314701736,
+            "lng": 121.34953959647028
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区海波路1000弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.276159375337528,
+            "lng": 121.33447591137346
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区海波路333弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.272686887163854,
+            "lng": 121.34678197821576
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区华江支路677弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.272631871369274,
+            "lng": 121.34509100792378
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区金园一路1115弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.25432462786926,
+            "lng": 121.32240214633606
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区金园一路1118弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.25380584839374,
+            "lng": 121.3197760400082
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区靖远路742弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.261186878633342,
+            "lng": 121.33902996098685
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区临夏路98弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.264604696572654,
+            "lng": 121.34351439192322
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区吴杨路100弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.275854060193478,
+            "lng": 121.3031901762247
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区张掖路201弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.26251242652177,
+            "lng": 121.3427259491771
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区陈家山路388号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.39710057282326,
+            "lng": 121.24625929692202
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区城北路1号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.393396920246587,
+            "lng": 121.24608696105808
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区宝安公路2948号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.341285327331075,
+            "lng": 121.30248976741858
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区成泽路386弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.379509858841818,
+            "lng": 121.28424895539408
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区嘉新公路668弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.367628743394622,
+            "lng": 121.27668692978052
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区叶城东路350弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.382317032009855,
+            "lng": 121.2884382929704
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区崇教路267号对面工地",
+        "comprehension": 96,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.325070432903846,
+            "lng": 121.27898874781928
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区双单路与德立路路口工地",
+        "comprehension": 57,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.34308029727633,
+            "lng": 121.28326558574213
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区伊宁路合作路交叉口工地",
+        "comprehension": 57,
+        "confidence": 30,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.346017943663718,
+            "lng": 121.26025332878098
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区宝翔路560弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.316082937041053,
+            "lng": 121.3261381091215
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区澄浏中路3000号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.390410831821253,
+            "lng": 121.28568992726262
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区嘉松北路7222弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.27758586359901,
+            "lng": 121.21703378459328
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区曹安公路1777号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.257697859055398,
+            "lng": 121.3695850144338
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区嘉定镇街道桃园新村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.394473919909412,
+            "lng": 121.2524669962816
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区李园二村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.397208977530354,
+            "lng": 121.25826915157054
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区江桥镇河东小区",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.277035270105863,
+            "lng": 121.30311067618707
+        },
+        "precise": 1
+    },
+    {
+        "address": "嘉定区红光村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.27781694832588,
+            "lng": 121.30376976293975
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区增建村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.24920516257341,
+            "lng": 121.29648118152343
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区五四村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.253150462649355,
+            "lng": 121.33361308893113
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区星火村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.271517736686143,
+            "lng": 121.3186385157409
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区嘉定工业区草庵村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.45658124790067,
+            "lng": 121.22086317115176
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区旺泾村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.42269062411787,
+            "lng": 121.19291607826139
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区雨化村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.42906081028868,
+            "lng": 121.18405034186121
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区外冈镇甘柏村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.39537605935177,
+            "lng": 121.1700143182678
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区徐行镇新潭村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.426530444371174,
+            "lng": 121.2702123029868
+        },
+        "precise": 0
+    },
+    {
+        "address": "嘉定区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "嘉定区",
+        "location": {
+            "lat": 31.3801553396772,
+            "lng": 121.27259505835202
+        },
+        "precise": 0
+    },
+    {
+        "address": "金山区金光村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "金山区",
+        "location": {
+            "lat": 30.803094380407835,
+            "lng": 121.3967523781415
+        },
+        "precise": 0
+    },
+    {
+        "address": "金山区众安街798弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "金山区",
+        "location": {
+            "lat": 30.89543961799949,
+            "lng": 121.16949276208871
+        },
+        "precise": 0
+    },
+    {
+        "address": "金山区龙轩路2208弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "金山区",
+        "location": {
+            "lat": 30.75043411353382,
+            "lng": 121.32017012663542
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区学府路1811弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "金山区",
+        "location": {
+            "lat": 30.755067083024006,
+            "lng": 121.3208033421894
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区海盛路515弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "金山区",
+        "location": {
+            "lat": 30.762059133069194,
+            "lng": 121.35173945683367
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区龙皓路2039弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "金山区",
+        "location": {
+            "lat": 30.75386706210717,
+            "lng": 121.32307542631578
+        },
+        "precise": 0
+    },
+    {
+        "address": "金山区石化四村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "金山区",
+        "location": {
+            "lat": 30.72170115509078,
+            "lng": 121.34696029185949
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区金龙新街436弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "金山区",
+        "location": {
+            "lat": 30.892788835762428,
+            "lng": 121.17689003847173
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区清泉路79号",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "金山区",
+        "location": {
+            "lat": 30.897533711453388,
+            "lng": 121.18428956061851
+        },
+        "precise": 0
+    },
+    {
+        "address": "金山区枫湾路680弄",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "金山区",
+        "location": {
+            "lat": 30.903882100955013,
+            "lng": 121.02552717699037
+        },
+        "precise": 1
+    },
+    {
+        "address": "金山区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "金山区",
+        "location": {
+            "lat": 30.747852376570318,
+            "lng": 121.34848004512126
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区庄家村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.137603398022964,
+            "lng": 121.32685792132665
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区广富林路600弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.06321687762026,
+            "lng": 121.25326999157697
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区陈春公路555弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "松江区",
+        "location": {
+            "lat": 31.081980676068873,
+            "lng": 121.36140666140984
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区沪亭路240弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.1389431364502,
+            "lng": 121.33271496308225
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区新南街350弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "松江区",
+        "location": {
+            "lat": 31.06850649468285,
+            "lng": 121.32282210416197
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区莘松路1379号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.099511381872386,
+            "lng": 121.34668675783169
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区涞亭南路1600弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.122886112569297,
+            "lng": 121.35070442922508
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区涞坊路288弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.160382454462308,
+            "lng": 121.32426181840282
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区申港路215号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.074632465294105,
+            "lng": 121.35917212645379
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区陈春公路951弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.07529188306683,
+            "lng": 121.33383299411997
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区新南路1259弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.092319468620286,
+            "lng": 121.34138989939213
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区雪家桥路591号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.108891946992586,
+            "lng": 121.34938185402274
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区九杜路350弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.148361024504293,
+            "lng": 121.31765927290448
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区明中路77号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.09004816284408,
+            "lng": 121.36440852893254
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区金白花路50弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.127747874657995,
+            "lng": 121.21299096064561
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区汇桥村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.01562643679799,
+            "lng": 121.34041092604734
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区古楼公路656弄",
+        "comprehension": 100,
+        "confidence": 75,
+        "district": "松江区",
+        "location": {
+            "lat": 31.111944160495963,
+            "lng": 121.26407148652059
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区新北街468号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.071642835432815,
+            "lng": 121.31758174913895
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区外婆泾路299弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.120232985139406,
+            "lng": 121.26509772728294
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区莘松路1288弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.105222713247343,
+            "lng": 121.3531419812264
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区月台路555弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "松江区",
+        "location": {
+            "lat": 31.07842699260477,
+            "lng": 121.33525707784494
+        },
+        "precise": 0
+    },
+    {
+        "address": "松江区同利路133号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "松江区",
+        "location": {
+            "lat": 31.113763862694913,
+            "lng": 121.31918648210198
+        },
+        "precise": 1
+    },
+    {
+        "address": "松江区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "松江区",
+        "location": {
+            "lat": 31.037135176464492,
+            "lng": 121.23447959624146
+        },
+        "precise": 0
+    },
+    {
+        "address": "青浦区城东新村",
+        "comprehension": 100,
+        "confidence": 70,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.154301781186845,
+            "lng": 121.12740175911318
+        },
+        "precise": 1
+    },
+    {
+        "address": "青浦区盈港东路4709弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.16720385373753,
+            "lng": 121.19934498130465
+        },
+        "precise": 0
+    },
+    {
+        "address": "青浦区火星村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.222482041554027,
+            "lng": 121.25742788846046
+        },
+        "precise": 0
+    },
+    {
+        "address": "青浦区新联村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.208277416925853,
+            "lng": 121.18801878611264
+        },
+        "precise": 0
+    },
+    {
+        "address": "青浦区白虬江路100号",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.2824635974831,
+            "lng": 121.14860338609859
+        },
+        "precise": 1
+    },
+    {
+        "address": "青浦区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "青浦区",
+        "location": {
+            "lat": 31.155454317980737,
+            "lng": 121.13055310467274
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区吴房村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.89848223976492,
+            "lng": 121.54164878740929
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区海马路5888弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.82979842511654,
+            "lng": 121.52087430469388
+        },
+        "precise": 1
+    },
+    {
+        "address": "奉贤区运河路200弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.928573020372045,
+            "lng": 121.47600475294546
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区钜庭路66弄",
+        "comprehension": 99,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.92413050532189,
+            "lng": 121.42365932308188
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区望河路366弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.964952859026667,
+            "lng": 121.51791726261614
+        },
+        "precise": 1
+    },
+    {
+        "address": "奉贤区西闸路75号",
+        "comprehension": 98,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 31.010261039967542,
+            "lng": 121.49997783209024
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区五宅村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.99850837562529,
+            "lng": 121.49420217681384
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区西闸公路1358弄",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.998561617575177,
+            "lng": 121.44542948762454
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区二桥村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.964795553515252,
+            "lng": 121.66048948603796
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区四新街50弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.945410601007186,
+            "lng": 121.72604449842578
+        },
+        "precise": 1
+    },
+    {
+        "address": "奉贤区灯塔村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.99071050479623,
+            "lng": 121.43125368769378
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区蔡家桥村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.980413583255384,
+            "lng": 121.64802055640673
+        },
+        "precise": 0
+    },
+    {
+        "address": "奉贤区南奉公路3111弄",
+        "comprehension": 100,
+        "confidence": 80,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.930073870042108,
+            "lng": 121.581473994397
+        },
+        "precise": 1
+    },
+    {
+        "address": "奉贤区",
+        "comprehension": 100,
+        "confidence": 20,
+        "district": "奉贤区",
+        "location": {
+            "lat": 30.923720110285377,
+            "lng": 121.48050373643107
+        },
+        "precise": 0
+    },
+    {
+        "address": "崇明区八滧村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "崇明区",
+        "location": {
+            "lat": 31.490102224291736,
+            "lng": 121.77335375810877
+        },
+        "precise": 0
+    },
+    {
+        "address": "崇明区南海村",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "崇明区",
+        "location": {
+            "lat": 31.52630808166582,
+            "lng": 121.69548899582607
+        },
+        "precise": 0
+    },
+    {
+        "address": "崇明区四滧村；",
+        "comprehension": 100,
+        "confidence": 50,
+        "district": "崇明区",
+        "location": {
+            "lat": 31.532605437620504,
+            "lng": 121.66331654330843
+        },
+        "precise": 0
+    },
+    {
+        "address": "崇明区江南大道",
+        "comprehension": 100,
+        "confidence": 30,
+        "district": "崇明区",
+        "location": {
+            "lat": 31.358963780322465,
+            "lng": 121.76544086783761
+        },
+        "precise": 0
+    }
+]

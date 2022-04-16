@@ -4,9 +4,9 @@ import time
 
 url = 'https://api.map.baidu.com/geocoding/v3/'
 
-read_filename = 'loc_text/03_31.txt'
+read_filename = 'loc_text/04_15.txt'
 
-write_filename = 'loc_info/03_31.json'
+write_filename = 'loc_info/04_15.json'
 
 web_ak = '7730Bm5nP9fNrm2GNWemmkYr7vZQLiG1'
 
@@ -36,14 +36,13 @@ d = text.split("||")
 
 for t in d:
     print("Task started!")
-    time.sleep(0.25)
     count = 0
     address = t.split("\n")
-    prefix = address[0][1:-1]
+    district = address[0][1:-1]
     for a in address[1:]:
         count += 1
         print(count)
-        params['address'] = prefix + a
+        params['address'] = district + a
         r = requests.get(url, params=params, headers=header)
         data = json.loads(r.content.decode('utf-8'))
         if data['status'] == 0:
@@ -51,9 +50,10 @@ for t in d:
             precise = data['result']['precise']
             confidence = data['result']['confidence']
             comprehension = data['result']['comprehension']
-            json_text.append({'address': params['address'], 'location': location, 'precise': precise, 'confidence': confidence, 'comprehension': comprehension})
+            json_text.append({'address': params['address'], 'district': district, 'location': location, 'precise': precise, 'confidence': confidence, 'comprehension': comprehension})
         else:
             print("No result!")
+        r.close()
     print("Task finished!")
             
 write_text = json.dumps(json_text, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False)
